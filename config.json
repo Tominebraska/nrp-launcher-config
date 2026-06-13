@@ -5,9 +5,9 @@
   "servers": [
     {
       "id": 1,
-      "name": "Nebraska RP | Main",
-      "ip": "188.130.155.34",
-      "port": 7777,
+      "name": "Nebraska RP | Omaha",
+      "ip": "188.127.241.74",
+      "port": 2619,
       "players": 0,
       "max": 1000,
       "ping": 0,
