@@ -12,36 +12,6 @@
       "ping": 0,
       "fav": true
     },
-    {
-      "id": 2,
-      "name": "Nebraska RP | West",
-      "ip": "188.130.155.35",
-      "port": 7777,
-      "players": 0,
-      "max": 1000,
-      "ping": 0,
-      "fav": true
-    },
-    {
-      "id": 3,
-      "name": "Nebraska RP | East",
-      "ip": "188.130.155.36",
-      "port": 7777,
-      "players": 0,
-      "max": 750,
-      "ping": 0,
-      "fav": false
-    },
-    {
-      "id": 4,
-      "name": "Nebraska RP | Test",
-      "ip": "188.130.155.37",
-      "port": 7777,
-      "players": 0,
-      "max": 750,
-      "ping": 0,
-      "fav": false
-    }
   ],
   "news": [
     {
