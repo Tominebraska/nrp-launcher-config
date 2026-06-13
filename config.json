@@ -1,4 +1,6 @@
 {
+  "latestVersion": "1.0.0",
+  "updateUrl": "",
   "motd": "Добро пожаловать на Nebraska Role Play! Приятной игры.",
   "servers": [
     {
@@ -6,9 +8,9 @@
       "name": "Nebraska RP | Main",
       "ip": "188.130.155.34",
       "port": 7777,
-      "players": 847,
+      "players": 0,
       "max": 1000,
-      "ping": 42,
+      "ping": 0,
       "fav": true
     },
     {
@@ -16,9 +18,9 @@
       "name": "Nebraska RP | West",
       "ip": "188.130.155.35",
       "port": 7777,
-      "players": 612,
+      "players": 0,
       "max": 1000,
-      "ping": 38,
+      "ping": 0,
       "fav": true
     },
     {
@@ -26,9 +28,9 @@
       "name": "Nebraska RP | East",
       "ip": "188.130.155.36",
       "port": 7777,
-      "players": 534,
+      "players": 0,
       "max": 750,
-      "ping": 55,
+      "ping": 0,
       "fav": false
     },
     {
@@ -36,9 +38,9 @@
       "name": "Nebraska RP | Test",
       "ip": "188.130.155.37",
       "port": 7777,
-      "players": 489,
+      "players": 0,
       "max": 750,
-      "ping": 61,
+      "ping": 0,
       "fav": false
     }
   ],
@@ -58,8 +60,8 @@
       "date": "13 июня 2026",
       "tag": "ОБНОВЛЕНИЕ",
       "tagColor": "#f59e0b",
-      "title": "Патч 2.14.1 — Новый транспорт и улучшения",
-      "desc": "Добавлены 3 новых автомобиля, исправлены баги с синхронизацией транспорта.",
+      "title": "Патч 2.14.1 — Новый транспорт",
+      "desc": "Добавлены 3 новых автомобиля, исправлены баги с синхронизацией.",
       "icon": "🚗",
       "hero": false
     },
@@ -69,7 +71,7 @@
       "tag": "СОБЫТИЕ",
       "tagColor": "#6366f1",
       "title": "Летний фестиваль 2026 уже начался!",
-      "desc": "Специальные квесты, уникальные награды и праздничная атмосфера до 30 июня.",
+      "desc": "Специальные квесты, уникальные награды до 30 июня.",
       "icon": "🎉",
       "hero": false
     },
@@ -82,6 +84,44 @@
       "desc": "Устранены проблемы с входом на сервер, исправлен баг с выпадением предметов.",
       "icon": "🔧",
       "hero": false
+    }
+  ],
+  "mods": [
+    {
+      "id": 1,
+      "name": "ENB Series v3.1",
+      "category": "Графика",
+      "desc": "Улучшение освещения, реалистичные тени, HDR и цветокоррекция.",
+      "version": "3.1",
+      "size": "45 МБ",
+      "icon": "🎨",
+      "url": "",
+      "installToGta": true,
+      "required": false
+    },
+    {
+      "id": 2,
+      "name": "SAMP CEF 1.4",
+      "category": "Скрипты",
+      "desc": "Chromium Embedded Framework — браузер внутри игры для NRP мини-игр и интерфейса.",
+      "version": "1.4",
+      "size": "22 МБ",
+      "icon": "🌐",
+      "url": "",
+      "installToGta": true,
+      "required": true
+    },
+    {
+      "id": 3,
+      "name": "HQ Sound Pack",
+      "category": "Звуки",
+      "desc": "Пак звуков высокого качества: транспорт, выстрелы, окружение.",
+      "version": "2.0",
+      "size": "180 МБ",
+      "icon": "🔊",
+      "url": "",
+      "installToGta": true,
+      "required": false
     }
   ],
   "social": {
